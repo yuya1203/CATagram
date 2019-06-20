@@ -67,3 +67,5 @@ gem 'devise'
 gem 'carrierwave', '~> 1.0'
 gem 'mini_magick'
 gem 'pg', groups: %w(production), require: false
+gem 'fog-aws'
+gem 'dotenv-rails' 
